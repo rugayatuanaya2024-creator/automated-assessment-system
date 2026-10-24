@@ -1,0 +1,174 @@
+{
+  "rubric_meta": {
+    "nama": "Rubrik Penilaian Soal Cerita Matematika Kelas IV SD",
+    "skala": "1 sampai 4 (1 = Belum memenuhi, 2 = Perlu perbaikan besar, 3 = Cukup memenuhi, 4 = Memenuhi dengan baik)",
+    "keterangan": "DATA DEMONSTRASI, BUKAN DATA PENELITIAN NYATA. Digunakan sebagai acuan penilaian hybrid aturan dan simulasi NLP."
+  },
+  "dimensi": [
+    {
+      "id": "keselarasan_kurikuler",
+      "nama": "Keselarasan Kurikuler",
+      "deskripsi": "Menilai sejauh mana soal cerita mencerminkan tujuan pembelajaran, ketepatan konsep matematika, dan kesesuaian dengan lingkup materi kelas IV SD.",
+      "indikator": [
+        {
+          "id": "KK1",
+          "kode": "KK-1",
+          "nama": "Kesesuaian dengan Tujuan Pembelajaran",
+          "deskripsi": "Apakah soal menanyakan kompetensi dan konsep inti yang ditargetkan pada tujuan pembelajaran yang dipilih.",
+          "kriteria": {
+            "1": "Soal tidak berkaitan atau bertentangan dengan tujuan pembelajaran yang dipilih.",
+            "2": "Soal menyentuh materi umum tetapi menguji kompetensi yang berbeda jauh dari tujuan pembelajaran.",
+            "3": "Soal sebagian besar sesuai dengan tujuan pembelajaran, dengan sedikit ketidaksesuaian fokus.",
+            "4": "Soal sepenuhnya selaras dengan tujuan pembelajaran dan menguji kompetensi sasaran secara tepat."
+          }
+        },
+        {
+          "id": "KK2",
+          "kode": "KK-2",
+          "nama": "Ketepatan Konsep Matematika",
+          "deskripsi": "Apakah definisi matematis, operasi hitung, sifat bangun, dan satuan ukuran bebas dari miskonsepsi.",
+          "kriteria": {
+            "1": "Terdapat kesalahan fatal dalam konsep matematika (misal: mencampur satuan panjang dengan berat, rumus salah total).",
+            "2": "Terdapat miskonsepsi pada salah satu bagian yang membingungkan alur logika matematis.",
+            "3": "Konsep matematika secara umum tepat, hanya terdapat penulisan notasi/satuan yang kurang baku.",
+            "4": "Seluruh konsep matematika, notasi, operasi, dan satuan ukuran disajikan dengan akurat dan tepat."
+          }
+        },
+        {
+          "id": "KK3",
+          "kode": "KK-3",
+          "nama": "Kesesuaian Tuntutan Soal dengan Kompetensi",
+          "deskripsi": "Apakah tingkat kerumitan bilangan dan lingkup konsep sesuai untuk tahapan perkembangan kognitif siswa kelas IV SD.",
+          "kriteria": {
+            "1": "Tuntutan soal jauh di atas atau jauh di bawah batas kompetensi kelas IV SD.",
+            "2": "Tuntutan kompetensi sebagian melampaui fase B (misal aljabar abstrak atau angka desimal rumit).",
+            "3": "Sebagian besar tuntutan kompetensi sesuai kelas IV, dengan sedikit penyesuaian beban hitung.",
+            "4": "Tuntutan soal sangat proporsional dengan lingkup materi dan capaian kompetensi kelas IV SD."
+          }
+        },
+        {
+          "id": "KK4",
+          "kode": "KK-4",
+          "nama": "Kesesuaian Konteks Cerita dengan Tujuan",
+          "deskripsi": "Apakah narasi cerita logis, bermakna, realistis, dan mendukung penalaran konsep matematika.",
+          "kriteria": {
+            "1": "Konteks cerita fiktif yang tidak realistis secara ekstrem (misal kolam renang 4,5 km atau belanjaan berton-ton).",
+            "2": "Konteks cerita terkesan dipaksakan dan tidak membantu siswa memahami hubungan matematis.",
+            "3": "Konteks cukup realistis bagi siswa SD, namun narasi cerita belum optimal mendukung penalaran.",
+            "4": "Konteks cerita sangat otentik, akrab dengan kehidupan siswa SD, dan memperkuat relevansi matematika."
+          }
+        }
+      ]
+    },
+    {
+      "id": "tuntutan_kognitif",
+      "nama": "Tuntutan Kognitif dan HOTS",
+      "deskripsi": "Menilai kedalaman proses berpikir siswa dalam menganalisis informasi, menghubungkan konsep, dan menyusun strategi pemecahan masalah.",
+      "indikator": [
+        {
+          "id": "TK1",
+          "kode": "TK-1",
+          "nama": "Proses Berpikir yang Diperlukan",
+          "deskripsi": "Menilai tingkat penalaran (apakah memerlukan penerapan bertahap, analisis, atau sekadar ingatan/LOTS mekanistis).",
+          "kriteria": {
+            "1": "Hanya membutuhkan ingatan/pengenalan fakta langsung tanpa operasi matematika berarti (C1).",
+            "2": "Hanya melibatkan satu langkah operasi rutin tunggal yang sangat mekanistis tanpa variasi (C2).",
+            "3": "Memerlukan penerapan dua langkah operasi matematika berurutan secara logis (C3-C4).",
+            "4": "Menuntut penalaran tingkat tinggi, analisis hubungan, dan perumusan strategi mandiri (C4-C5)."
+          }
+        },
+        {
+          "id": "TK2",
+          "kode": "TK-2",
+          "nama": "Kebutuhan Menganalisis Informasi",
+          "deskripsi": "Apakah siswa dituntut memilah informasi relevan, menafsirkan data implisit, atau menyaring informasi distraktor.",
+          "kriteria": {
+            "1": "Seluruh angka langsung dimasukkan ke operasi tanpa perlu membaca atau memahami narasi.",
+            "2": "Hanya memerlukan identifikasi angka yang sudah tertera secara eksplisit tanpa proses analisis.",
+            "3": "Menuntut siswa memilah data yang relevan dari cerita sebelum melakukan perhitungan.",
+            "4": "Menuntut analisis data mendalam, membandingkan beberapa informasi, atau mengidentifikasi data tersembunyi."
+          }
+        },
+        {
+          "id": "TK3",
+          "kode": "TK-3",
+          "nama": "Kebutuhan Menghubungkan Konsep",
+          "deskripsi": "Apakah pemecahan masalah menuntut penggabungan lebih dari satu konsep atau pemodelan bertingkat.",
+          "kriteria": {
+            "1": "Soal terisolasi pada satu angka tunggal tanpa relasi konsep matematika.",
+            "2": "Hanya menghubungkan satu konsep tunggal dengan alur linier yang sederhana.",
+            "3": "Mengintegrasikan dua konsep (misal: perkalian lalu pengurangan, atau konversi lalu selisih).",
+            "4": "Mengintegrasikan berbagai representasi atau konsep majemuk dalam pemecahan masalah kontekstual."
+          }
+        },
+        {
+          "id": "TK4",
+          "kode": "TK-4",
+          "nama": "Kebutuhan Mengevaluasi Strategi atau Menyusun Solusi",
+          "deskripsi": "Apakah soal menantang siswa untuk mengambil keputusan, memverifikasi ketercukupan kondisi, atau memilih strategi.",
+          "kriteria": {
+            "1": "Tidak ada ruang untuk menyusun strategi, alur penyelesaian hanya satu rumus instan.",
+            "2": "Strategi penyelesaian sudah ditentukan langsung oleh narasi soal.",
+            "3": "Siswa perlu merencanakan urutan penyelesaian sendiri untuk mencapai hasil yang benar.",
+            "4": "Siswa dituntut mengevaluasi kecukupan kondisi, membandingkan alternatif, atau memvalidasi solusi."
+          }
+        }
+      ]
+    },
+    {
+      "id": "kesesuaian_bahasa",
+      "nama": "Kesesuaian Bahasa dan Keterbacaan",
+      "deskripsi": "Menilai keterbacaan, kejelasan instruksi, kesesuaian kosakata untuk siswa kelas IV SD, dan ketiadaan ambiguitas informasi.",
+      "indikator": [
+        {
+          "id": "KB1",
+          "kode": "KB-1",
+          "nama": "Kejelasan Instruksi dan Kalimat Tanya",
+          "deskripsi": "Apakah pertanyaan di akhir soal dinyatakan secara eksplisit, tegas, dan tidak menggantung.",
+          "kriteria": {
+            "1": "Tidak terdapat kalimat tanya atau instruksi jelas mengenai apa yang harus dicari siswa.",
+            "2": "Kalimat tanya ambigu, membingungkan, atau bertumpuk sehingga maksud soal kabur.",
+            "3": "Kalimat tanya jelas, namun penempatannya kurang terstruktur dalam paragraf.",
+            "4": "Kalimat tanya sangat eksplisit, fokus, tepat di akhir cerita, dan mudah dipahami target siswa."
+          }
+        },
+        {
+          "id": "KB2",
+          "kode": "KB-2",
+          "nama": "Struktur Kalimat dan Keterbacaan",
+          "deskripsi": "Apakah susunan kalimat mengikuti kaidah SPOK dengan panjang kalimat yang ramah untuk anak usia 9-10 tahun.",
+          "kriteria": {
+            "1": "Struktur kalimat sangat berbelit-belit, tata bahasa rusak, dan sulit dipahami pembaca.",
+            "2": "Kalimat terlalu panjang (run-on sentences) tanpa tanda baca yang tepat sehingga membebani memori kerja anak.",
+            "3": "Struktur kalimat cukup baik dan runtut, terdapat sedikit pilihan kata yang kurang mengalir.",
+            "4": "Struktur kalimat efektif, runtut secara kronologis, ringkas, dan sangat nyaman dibaca siswa."
+          }
+        },
+        {
+          "id": "KB3",
+          "kode": "KB-3",
+          "nama": "Kesesuaian Kosakata untuk Kelas IV SD",
+          "deskripsi": "Apakah istilah dan perbendaharaan kata sesuai dengan pengalaman berbahasa anak sekolah dasar.",
+          "kriteria": {
+            "1": "Menggunakan banyak istilah teknis/jargon dewasa yang asing bagi anak SD (misal: amortisasi, komoditas grosir).",
+            "2": "Terdapat beberapa istilah yang kurang lazim bagi siswa kelas IV tanpa penjelasan konteks.",
+            "3": "Kosakata pada umumnya dapat dimengerti siswa, meskipun ada satu atau dua kata agak kaku.",
+            "4": "Seluruh kosakata sangat familiar, wajar, dan sesuai dengan tahapan literasi bahasa siswa kelas IV SD."
+          }
+        },
+        {
+          "id": "KB4",
+          "kode": "KB-4",
+          "nama": "Kejelasan Informasi dan Ketiadaan Ambiguitas",
+          "deskripsi": "Apakah informasi numerik dan faktual lengkap, tidak kontradiktif, dan tidak menimbulkan multi-tafsir.",
+          "kriteria": {
+            "1": "Informasi tidak lengkap sehingga soal mustahil diselesaikan secara logis, atau memuat kontradiksi data.",
+            "2": "Informasi memuat celah multi-tafsir yang membuat siswa bisa menghasilkan lebih dari satu jawaban berbeda.",
+            "3": "Informasi lengkap dan konsisten, ada sedikit frasa yang berpotensi memunculkan keraguan kecil.",
+            "4": "Seluruh informasi dan data numerik lengkap, presisi, harmonis, dan bebas dari multi-tafsir."
+          }
+        }
+      ]
+    }
+  ]
+}

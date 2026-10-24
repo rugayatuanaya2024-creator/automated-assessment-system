@@ -1,0 +1,67 @@
+[
+  {
+    "id": "TP-01",
+    "materi": "Bilangan Cacah dan Operasi Hitung",
+    "tujuan_pembelajaran": "Peserta didik dapat menyelesaikan masalah kontekstual yang melibatkan operasi hitung penjumlahan, pengurangan, perkalian, dan pembagian bilangan cacah sampai dengan 10.000 secara bertahap.",
+    "konsep_matematika": "Operasi hitung aritmetika campuran (multi-step), nilai tempat, estimasi hasil hitung, dan strategi penyelesaian masalah dua langkah.",
+    "indikator_ketercapaian": [
+      "Mengidentifikasi operasi hitung yang sesuai untuk masalah kontekstual dua tahap",
+      "Melakukan perkalian dan pembagian bilangan cacah dengan strategi dekomposisi",
+      "Menentukan nilai sisa atau kembalian dalam transaksi sehari-hari"
+    ],
+    "contoh_soal": "Koperasi sekolah membeli 15 pak buku tulis. Setiap pak berisi 10 buku. Jika 85 buku telah dibagikan kepada siswa berprestasi, berapa sisa buku tulis yang belum dibagikan?",
+    "disclaimer": "TUJUAN PEMBELAJARAN DEMONSTRATIF, PERLU VERIFIKASI TERHADAP DOKUMEN KURIKULUM RESMI"
+  },
+  {
+    "id": "TP-02",
+    "materi": "Pecahan Senilai dan Operasi Pecahan",
+    "tujuan_pembelajaran": "Peserta didik dapat mengidentifikasi, menyederhanakan, membandingkan, serta menyelesaikan masalah kontekstual yang melibatkan pecahan senilai dan penjumlahan/pengurangan pecahan berpenyebut sama.",
+    "konsep_matematika": "Konsep representasi bagian dari keseluruhan, pecahan senilai (visual dan simbolik), pecahan sederhana, serta perbandingan pecahan.",
+    "indikator_ketercapaian": [
+      "Membandingkan dua pecahan dalam konteks pembagian benda konkret",
+      "Menemukan pecahan senilai melalui visualisasi atau perkalian/pembagian faktor sama",
+      "Menghitung sisa bagian benda setelah digunakan sebagian"
+    ],
+    "contoh_soal": "Siti membagi sebuah pizza menjadi 8 bagian sama besar. Ia memakan 2 bagian dan adiknya memakan 3 bagian. Berapa bagian pizza yang belum dimakan?",
+    "disclaimer": "TUJUAN PEMBELAJARAN DEMONSTRATIF, PERLU VERIFIKASI TERHADAP DOKUMEN KURIKULUM RESMI"
+  },
+  {
+    "id": "TP-03",
+    "materi": "Pengukuran (Panjang, Berat, dan Waktu)",
+    "tujuan_pembelajaran": "Peserta didik dapat mendeskripsikan, mengonversi antar satuan baku, dan menyelesaikan masalah kontekstual yang berkaitan dengan pengukuran panjang (m, cm), berat (kg, gram), dan durasi waktu (jam, menit).",
+    "konsep_matematika": "Konversi satuan metrik baku (1 m = 100 cm, 1 kg = 1000 gram, 1 jam = 60 menit), estimasi ukuran, dan perhitungan durasi kegiatan.",
+    "indikator_ketercapaian": [
+      "Mengonversi satuan berat baku kilogram ke gram dalam resep atau belanjaan",
+      "Menghitung selisih panjang atau berat dua benda dalam satuan yang setara",
+      "Menghitung durasi waktu mulai hingga selesai suatu kegiatan"
+    ],
+    "contoh_soal": "Ibu membeli 2 kg tepung terigu dan 750 gram gula pasir. Ibu menggunakan 1.250 gram tepung terigu untuk membuat kue. Berapa gram sisa tepung terigu milik Ibu?",
+    "disclaimer": "TUJUAN PEMBELAJARAN DEMONSTRATIF, PERLU VERIFIKASI TERHADAP DOKUMEN KURIKULUM RESMI"
+  },
+  {
+    "id": "TP-04",
+    "materi": "Keliling dan Luas Bangun Datar",
+    "tujuan_pembelajaran": "Peserta didik dapat menghitung keliling dan luas bangun datar sederhana (persegi, persegi panjang, dan gabungannya) untuk memecahkan masalah kontekstual dalam kehidupan sehari-hari.",
+    "konsep_matematika": "Konsep batas keliling (penjumlahan seluruh sisi terluar), konsep tutupan luas (persegi satuan dan perkalian panjang x lebar), serta pemecahan masalah spasial kontekstual.",
+    "indikator_ketercapaian": [
+      "Menghitung keliling persegi dan persegi panjang berdasarkan ukuran sisi",
+      "Menghitung luas permukaan lantai atau pekarangan dengan rumus luas",
+      "Menentukan kebutuhan bahan pagar keliling atau ubin lantai"
+    ],
+    "contoh_soal": "Sebuah taman bunga berbentuk persegi panjang dengan panjang 12 meter dan lebar 8 meter. Di sekeliling taman akan dipasangi pagar kawat. Berapa meter panjang kawat yang diperlukan untuk mengelilingi taman satu putaran penuh?",
+    "disclaimer": "TUJUAN PEMBELAJARAN DEMONSTRATIF, PERLU VERIFIKASI TERHADAP DOKUMEN KURIKULUM RESMI"
+  },
+  {
+    "id": "TP-05",
+    "materi": "Data dan Penyajian Data",
+    "tujuan_pembelajaran": "Peserta didik dapat mengumpulkan, menyajikan, dan menginterpretasikan data hasil pengamatan atau pengukuran dalam bentuk tabel frekuensi dan diagram batang sederhana untuk mengambil kesimpulan.",
+    "konsep_matematika": "Organisasi data, interpretasi diagram batang vertikal/horizontal, identifikasi nilai tertinggi/terendah (modus sederhana), dan perhitungan selisih/total data.",
+    "indikator_ketercapaian": [
+      "Membaca informasi kuantitatif dari tabel frekuensi atau diagram batang",
+      "Menentukan kategori dengan frekuensi terbanyak atau tersedikit",
+      "Menghitung selisih atau jumlah data antar dua kategori"
+    ],
+    "contoh_soal": "Berdasarkan diagram batang peminjaman buku perpustakaan, terdapat 24 buku cerita dipinjam pada hari Senin dan 38 buku pada hari Selasa. Berapa selisih buku cerita yang dipinjam pada kedua hari tersebut?",
+    "disclaimer": "TUJUAN PEMBELAJARAN DEMONSTRATIF, PERLU VERIFIKASI TERHADAP DOKUMEN KURIKULUM RESMI"
+  }
+]
